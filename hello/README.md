@@ -17,3 +17,9 @@ cargo build
 ```sh
 cargo run
 ```
+
+* Check
+
+```sh
+cargo check
+```
